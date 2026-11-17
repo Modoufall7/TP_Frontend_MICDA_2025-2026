@@ -9,7 +9,7 @@ Site web de présentation de l'Université Numérique Cheikh Hamidou Kane (UN-CH
 - N00664420211
 - modou.fall7@unchk.edu.sn
 - Ndeye THIAW
-- N05513620212
+- N05514620212
 - ndeye.thiaw@unchk.edu.sn
 
 
